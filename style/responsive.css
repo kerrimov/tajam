@@ -1,0 +1,331 @@
+@media screen and (max-width: 1275px){
+    nav{
+        margin-left: 10%;
+    }
+    .team_cards{
+        grid-template-columns: auto;
+    }
+    .team_cards .card .border_position{
+        padding: 5px 0 5px 0;
+        width: 139px;
+    }
+    .main_team{
+        height: 1145px;
+    }
+    .img_team{
+        height: 1145px;
+    }
+    .main_team h2 {
+        font-size: 18px;
+    }
+    .main_team h4{
+        font-size: 12px;
+    }
+    .main_team p.about {
+        font-size: 12px;
+    }
+    .main_team .photo{
+        margin-top: 20px;
+        width: 140px;
+        height: 150px;
+    }
+    .main_team .photo .employee{
+        width: 140px;
+        height: 150px;
+    }
+    .main_team a{
+        font-size: 13px;
+        margin-left: -5%;
+        margin-top: 20px;
+    }
+    .main_team .joinUs{
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .main_news .feedback_form{
+        margin: auto;
+    }
+}
+@media screen and (max-width: 1130px){
+    nav{
+        margin-left: 5%;
+    }
+    .team_cards{
+        grid-template-columns: auto;
+    }
+    .team_cards .card .border_position{
+        padding: 5px 0 5px 0;
+        width: 139px;
+    }
+    .main_team{
+        height: 1145px;
+    }
+    .img_team{
+        height: 1145px;
+    }
+    .main_team h2 {
+        font-size: 18px;
+    }
+    .main_team h4{
+        font-size: 12px;
+    }
+    .main_team p.about {
+        font-size: 12px;
+    }
+    .main_team .photo{
+        margin-top: 20px;
+        width: 140px;
+        height: 150px;
+    }
+    .main_team .photo .employee{
+        width: 140px;
+        height: 150px;
+    }
+    .main_team a{
+        font-size: 13px;
+        margin-left: -7%;
+        margin-top: 20px;
+    }
+    .main_team .joinUs{
+        font-size: 14px;
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 1050px){
+    .topnav a{
+        display: none;
+    }
+    .topnav a.icon{
+        float: right;
+        margin-top: -15px;
+        display: block;
+        color:#ffffff;
+        font-size: 20px;
+    }
+    .header_img{
+        height: 582px;
+    }
+    nav{
+        width: 100%;
+    }
+    .topnav.responsive{
+        position: relative;
+        top: 50px;
+        left: -175px;
+    }
+    header .topnav.responsive{
+        height: 280px;
+    }
+    .topnav.responsive a.icon{
+        position: absolute;
+        top: -50px;
+        left: 175px;
+    }
+    .topnav.responsive a{
+        float:none;
+        display: block;
+        text-align: left;
+    }
+    main .main_agency{
+        padding: 50px 0 50px 0;
+        height: 400px;
+    }
+
+    main .main_agency p{
+        font-size: 13px;
+    }
+    main .main_agency h1{
+        font-size: 25px;
+    }
+    main .main_agency a{
+        font-size: 12px;
+        padding: 5px 5px 5px 5px;
+        margin-top: 20px;
+    }
+    .img_column{
+        max-width: 100%;
+        padding-bottom: 20px;
+    }
+    .main_ourStory{
+        flex-direction: column;
+        margin-left: -27%;
+    }
+    main .ourStory_right{
+        text-align: center;
+        margin-left: 0;
+    }
+    main .ourStory_right h2{
+        font-size: 20px;
+    }
+    main .ourStory_right .firstStory{
+        font-size: 15px;
+    }
+    main .ourStory_right .secondStory{
+        font-size: 15px;
+        padding-bottom: 25px;
+    }
+    main .ourStory_right a{
+        font-size: 13px;
+    }
+
+    main .main_videoPoster p{
+        font-size: 12px;
+    }
+    main .main_playButton{
+        padding-left: 44%;
+        height: 50px;
+        width: 50px;
+    }
+    .team_cards{
+        grid-template-columns: auto;
+    }
+    .team_cards .card .border_position{
+        padding: 5px 0 5px 0;
+        width: 139px;
+    }
+    .main_team{
+        height: 1145px;
+    }
+    .img_team{
+        height: 1145px;
+    }
+    .main_team h2 {
+        font-size: 18px;
+    }
+    .main_team h4{
+        font-size: 12px;
+    }
+    .main_team p.about {
+        font-size: 12px;
+    }
+    .main_team .photo{
+        margin-top: 20px;
+        width: 140px;
+        height: 150px;
+    }
+    .main_team .photo .employee{
+        width: 140px;
+        height: 150px;
+    }
+    .main_team a{
+        font-size: 13px;
+        margin-left: -12%;
+        margin-top: 20px;
+    }
+    .main_team .joinUs{
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .main_ourWorks .ourWorks_loadMore{
+        margin-left: 36%;
+    }
+    .ourWorks_img{
+        margin-bottom: 40px;
+    }
+    .main_ourWorks .ourWorks_img1 img{
+        height: 140px;
+        width: 200px;
+    }
+    .main_ourWorks .ourWorks_img2 img{
+        height: 140px;
+        width: 200px;
+    }
+    .main_ourWorks .ourWorks_title h2{
+        font-size: 18px;
+    }
+    .main_ourWorks .ourWorks_title a{
+        font-size: 12px;
+    }
+
+    .main_expertise .services_cards_one{
+        grid-template-columns: auto;
+    }
+    .main_expertise .services_cards_two{
+        grid-template-columns: auto;
+    }
+    .main_expertise .services_cards_one img{
+        margin-top: 35px;
+    }
+    .main_expertise .services_cards_two img{
+        margin-top: 20px;
+    }
+    .main_expertise .title h2{
+        padding: 35px 0 10px 0;
+        font-size: 18px;
+    }
+    .main_expertise .title p{
+        padding-bottom: 15px;
+        font-size: 14px;
+    }
+    .services_cards_two p{
+        margin-bottom: 0px;
+    }
+    .main_expertise .line_horizontal {
+        display: none;
+    }
+    .services_cards_one .line_vertical{
+        display: none;
+    }
+    .services_cards_two .line_vertical {
+        display: none;
+    }
+    main .img_testimonials{
+        height: 980px;
+    }
+    main .main_testimonials{
+        height: 980px;
+    }
+    .prev, .next {
+        margin: 0%;
+        top: 0px;
+    }
+    .main_news{
+        flex-direction: column;
+    }
+    .main_news .feedback_form{
+        margin-left: 10%;
+    }
+    .main_news .happy_client{
+        margin-left: 10%;
+        margin-top: 20px;
+    }
+    .main_news .happy_client .clients{
+        grid-column-gap: 20px;
+    }
+    .main_news h2{
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    footer{
+        height: 740px;
+    }
+    footer .img_footer{
+        height: 740px;
+    }
+    footer .footer{
+        margin-left: 15%;
+        grid-template-columns: auto;
+        grid-row-gap: 25px;
+    }
+    .footer .footer_stayInTouch .input{
+        margin-top: 20px;
+    }
+    .footer .footer_stayInTouch .btn {
+        margin-top: 20px;
+    }
+    .footer .footer_ourStudio .address{
+        padding-top: 20px;
+    }
+    .footer .footer_help .help_down{
+        padding-top: 30px;
+    }
+    .main_news{
+        padding: 30px 0 30px 0;
+    }
+    .main_news .input {
+        width: 300px;
+    }
+    .main_news textarea{
+        width: 300px;
+    }
+}
